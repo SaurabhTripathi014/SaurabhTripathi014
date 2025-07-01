@@ -11,8 +11,8 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=saurabh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="meet-vasita" /> 
-  <img src="https://img.shields.io/github/followers/meet-vasita?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=SaurabhTripathi014&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="meet-vasita" /> 
+  <img src="https://img.shields.io/github/followers/SaurabhTripathi014?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
 ## 🚀 About Me
@@ -20,7 +20,7 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Meet Vasita"
+        self.name = "Saurabh Tripathi"
         self.role = "Python Developer & Data Scientist"
         self.language_spoken = ["Python", "SQL", "JavaScript"]
         self.current_focus = "Machine Learning"
@@ -37,7 +37,7 @@ me.say_hi()
 
 - 🔭 I'm currently diving deep into **Machine Learning**
 - 💬 Ask me about **Python, Data Science, and ML algorithms**
-- 📫 Reach out to me: **meetvasita85@gmail.com**
+- 📫 Reach out to me: **saurabht26112002@gmail.com**
 
 ## 🛠️ Languages and Tools
 
@@ -64,24 +64,24 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meet-vasita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet-vasita&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaurabhTripathi014&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTripathi014&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet-vasita&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhTripathi014&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meet-vasita&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaurabhTripathi014&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-vasita&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhTripathi014&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
 
 ## Contributions 
@@ -89,9 +89,9 @@ me.say_hi()
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meet-vasita/meet-vasita/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meet-vasita/meet-vasita/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meet-vasita/meet-vasita/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaurabhTripathi014SaurabhTripathi014/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaurabhTripathi014/SaurabhTripathi014/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaurabhTripathi014/SaurabhTripathi014/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -99,13 +99,13 @@ me.say_hi()
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/meet-vasita-9260aa327" target="_blank">
+  <a href="https://linkedin.com/in/saurabh-tripathi-89640a343" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/meet___vasita" target="_blank">
+  <a href="https://instagram.com/saurhub014" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:meetvasita85@gmail.com">
+  <a href="mailto:saurabht26112002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
