@@ -1,92 +1,115 @@
-## 👋 Hey there, I'm Vikas Mishra
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Meet&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-🔍 Data Science Enthusiast | AI/ML Explorer | Web Developer by Curiosity
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Developer;Data+Scientist;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
-I'm Vikas from Bhiwandi, Maharashtra 🇮🇳 — a data-obsessed learner on a mission to extract insight from chaos. I’m diving deep into data science, machine learning, and AI while blending in full-stack development to turn ideas into intelligent, interactive solutions.
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="400" />
+</div>
 
----
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=meet-vasita&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="meet-vasita" /> 
+  <img src="https://img.shields.io/github/followers/meet-vasita?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</p>
 
-### 🧠 Data Skills & Tools
-**Languages & Libraries:**  
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, TensorFlow (learning now)
+## 🚀 About Me
 
-**Data & Visualization:**  
-Power BI, Tableau, SQL, Excel, Jupyter Notebook
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Meet Vasita"
+        self.role = "Python Developer & Data Scientist"
+        self.language_spoken = ["Python", "SQL", "JavaScript"]
+        self.current_focus = "Machine Learning"
+        self.hobbies = ["Coding", "Data Analysis", "Learning New Tech"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together!")
 
-**Machine Learning:**  
-Regression, Classification, Clustering, Recommendation Systems, NLP, Model Evaluation
+me = DataScientist()
+me.say_hi()
+```
 
----
+## 🌱 Current Journey
 
-### 💻 Also Familiar With
-HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL  
-Git, GitHub, VS Code, Postman, REST APIs
+- 🔭 I'm currently diving deep into **Machine Learning**
+- 💬 Ask me about **Python, Data Science, and ML algorithms**
+- 📫 Reach out to me: **meetvasita85@gmail.com**
 
----
+## 🛠️ Languages and Tools
 
-### 🧪 Current Experiments
-- Building AI models for real-world predictions  
-- Playing with NLP & Recommendation Systems  
-- Integrating ML into full-stack apps  
-- Automating reports & dashboards with Python + Power BI
+<div align="center">
+  
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css&theme=dark" />
 
----
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,linux,aws&theme=dark" />
 
-### 📂 Projects I'm Proud Of
-- 🤖 **Movie Recommendation System** – NLP-based similarity engine  
-- 📈 **Stock Price Predictor** – Time series model using Python  
-- 📊 **Sales Dashboard** – Power BI dashboard for retail insights  
-- 🩺 **Prescripto** – Full-stack doctor appointment system  
-- 🥗 **GoFood** – Food delivery web app (MERN Stack)
+### Data Science Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+</p>
 
----
+</div>
 
-### 💬 My Motto
-> “Numbers tell stories. I just help translate them.”
+## 📊 GitHub Analytics
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meet-vasita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet-vasita&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikasmiishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikasmishra3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishravikas8087@gmail.com) 
-
----
-
-_Always learning, always building, always questioning._  
-Let’s shape the future with data. 
-
-
-
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikasmishra0921&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vikasmishra0921&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasmishra0921&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet-vasita&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikasmishra0921&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meet-vasita&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
 
+## 📈 Activity Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-vasita&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
 
+## Contributions 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
 
-<!--
-**SaurabhTripathi014/SaurabhTripathi014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meet-vasita/meet-vasita/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meet-vasita/meet-vasita/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meet-vasita/meet-vasita/output/github-contribution-grid-snake.svg">
+</picture>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/meet-vasita-9260aa327" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/meet___vasita" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:meetvasita85@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
