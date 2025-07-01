@@ -22,7 +22,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Saurabh Tripathi"
         self.role = "Python Developer & Data Scientist"
-        self.language_spoken = ["Python", "SQL", "JavaScript"]
+        self.language_spoken = ["Python", "SQL"]
         self.current_focus = "Machine Learning"
         self.hobbies = ["Coding", "Data Analysis", "Learning New Tech"]
     
