@@ -44,7 +44,7 @@ me.say_hi()
 <div align="center">
   
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 ### Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,linux,aws&theme=dark" />
